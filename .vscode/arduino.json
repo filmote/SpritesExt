@@ -1,0 +1,6 @@
+{
+    "sketch": "SpritesExt.ino",
+    "port": "/dev/cu.usbmodem1421",
+    "board": "arduino:avr:leonardo",
+    "output": "../build"
+}
